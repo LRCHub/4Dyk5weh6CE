@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "To my Dearest",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2025-12-24T06:17:16.550875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To my Dearest",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/01_To_my_Dearest_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "To My Dearest Wife",
+      "artist": "Lucero",
+      "has_synced": true,
+      "path": "select/02_To_My_Dearest_Wife_Lucero.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To my Dearest~Lily's practice singing~",
+      "artist": "星川リリィ",
+      "has_synced": true,
+      "path": "select/03_To_my_Dearest~Lily's_practice_singing~_星川リリィ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To my Dearest",
+      "artist": "フランシュシュ(源さくら(CV.本渡楓)、二階堂サキ(CV.田野アサミ)、水野愛(CV.種田梨沙)、紺野純子(CV.河瀬茉希)、ゆうぎり(CV.衣川里佳)、星川リリィ(CV.田中美海))",
+      "has_synced": true,
+      "path": "select/04_To_my_Dearest_フランシュシュ(源さくら(CV.本渡楓)、二階堂サキ(CV.田野アサミ)、水野愛(CV.種田梨沙)、紺野純子(CV.河瀬茉希)、ゆうぎり(CV.衣川里佳)、星川.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To my Dearest ～Lily's practice singing～",
+      "artist": "星川リリィ (田中美海)",
+      "has_synced": true,
+      "path": "select/05_To_my_Dearest_~Lily's_practice_singing~_星川リリィ_(田中美海).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To my Dearest",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/06_To_my_Dearest_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To my Dearest",
+      "artist": "フランシュシュ (本渡楓, 田野アサミ, 種田梨沙, 河瀬茉希, 衣川里佳, 田中美海)",
+      "has_synced": true,
+      "path": "select/07_To_my_Dearest_フランシュシュ_(本渡楓,_田野アサミ,_種田梨沙,_河瀬茉希,_衣川里佳,_田中美海).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TO MY DEAREST",
+      "artist": "Re:vale",
+      "has_synced": false,
+      "path": "select/08_TO_MY_DEAREST_Re_vale.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "To my Dearest〜Lily's practice singing〜",
+      "artist": "星川リリィ",
+      "has_synced": true,
+      "path": "select/09_To_my_Dearest〜Lily's_practice_singing〜_星川リリィ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To my Dearest～Lily‘s practice singing～",
+      "artist": "星川リリィ(CV.田中美海)",
+      "has_synced": true,
+      "path": "select/10_To_my_Dearest~Lily‘s_practice_singing~_星川リリィ(CV.田中美海).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To my Dearest",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_To_my_Dearest_フランシュシュ.txt"
+    }
+  ]
+}
